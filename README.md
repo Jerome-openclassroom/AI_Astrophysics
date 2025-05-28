@@ -45,7 +45,15 @@ Data covers:
   - A distinct **red giant branch**
   - Hot blue stars like Dschubba and Alnilam
 
-### 🢒 2. **Galactic Structure: Disk vs Halo**
+
+### 🟢 2. **Galactic Structure: Disk vs Halo**
+
+- Queried **open clusters** and **globular clusters**
+- Associated them to **constellations** (approximated galactic position)
+- Calculated **mean distances by constellation**
+- Interpreted spatial distribution:
+  - **Open clusters** clustered near the Sun (200–6000 al)
+  - **Globular clusters** scattered in the halo (7000–34000 al)
 
 
 ### 🔵 3. **AI-Guided Reasoning and Diagram Generation**
@@ -61,14 +69,6 @@ The user:
 This dynamic approach showcases the **true pedagogical synergy between human reasoning and AI execution**, enabling real-time scientific insight from raw SQL data.
 
 
-### 🟢 2. **Galactic Structure: Disk vs Halo**
-
-- Queried **open clusters** and **globular clusters**
-- Associated them to **constellations** (approximated galactic position)
-- Calculated **mean distances by constellation**
-- Interpreted spatial distribution:
-  - **Open clusters** clustered near the Sun (200–6000 al)
-  - **Globular clusters** scattered in the halo (7000–34000 al)
 
 ## 📁 File Structure
 
