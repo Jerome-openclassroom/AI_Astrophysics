@@ -46,7 +46,7 @@ Data covers:
   - Hot blue stars like Dschubba and Alnilam
 
 <p align="center">
-  <img src="img/HR_Diagram.png" alt="HR Diagram" width="600">
+  <img src="HR_Diagram.png" alt="HR Diagram" width="600">
 </p>
 
     
