@@ -103,9 +103,16 @@ WHERE temperature IS NOT NULL AND distance_années_lumière IS NOT NULL AND magn
 ```
 
 ## 🪐 Conclusion
+🧭 Methodological Insight: AI-Assisted Scientific Exploration
+This project demonstrates how artificial intelligence can assist not only in scientific calculation and visualization, but in building a structured, reasoned exploration path. From hypothesis to diagram, the AI responds to user-guided logic, while preserving human validation and interpretation at each step.
+
+This dynamic reveals a new model of scientific collaboration, where creativity, structure, and rigor converge in a dialogue between human insight and computational support. The iterative interaction observed in this project—SQL queries, astrophysical reasoning, classification logic, and data interpretation—illustrates how AI extends cognitive reach rather than replacing it.
+
+Such workflows anticipate the post-AGI research paradigm, where citizen scientists, researchers, and enthusiasts will co-navigate knowledge landscapes with intelligent systems, guided by curiosity, methodological clarity, and shared epistemic trust.
 
 A blend of:
 - Personal archive recovery,
+- AI,
 - Linux,
 - SQL,
 - and real-world stars and galactic interpretation.
