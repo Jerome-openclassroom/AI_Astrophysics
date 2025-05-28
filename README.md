@@ -68,6 +68,7 @@ The user:
 
 This dynamic approach showcases the **true pedagogical synergy between human reasoning and AI execution**, enabling real-time scientific insight from raw SQL data.
 
+> 💡 **Note:** For most stars in the dataset (within a few thousand light-years), the effect of interstellar reddening is negligible and was not included in the magnitude correction. This approximation holds for local HR diagram analysis but may require refinement for distant or obscured stars.
 
 
 ## 📁 File Structure
