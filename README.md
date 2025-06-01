@@ -126,3 +126,10 @@ A blend of:
 
 **AstresDB** is both a tool, a memory, and a map of the stars —  
 drawn not from observatories, but from pure curiosity and determination.
+---
+
+🔗 **Related historical project**:  
+🔧 [VLTI_Mirror_Curvature_Model_C_VBA_2005](https://github.com/Jerome-openclassroom/VLTI_Mirror_Curvature_Model_C_VBA_2005)  
+*A foundational scientific internship focused on physical modeling of adaptive optics for the VLTI (ESO), using C and VBA — bridging instrumentation and theoretical modeling.*
+
+
