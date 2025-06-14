@@ -132,5 +132,7 @@ drawn not from observatories, but from pure curiosity and determination.
 [Main GitHub profile](https://github.com/Jerome-openclassroom)  
 - [Related project: VLTI Mirror Curvature Modeling (VBA, 2005)](https://github.com/Jerome-openclassroom/VLTI_Mirror_Curvature_Model_C_VBA_2005)  
 - [Related project: Artisan Spectroscopy & Plasma Physics](https://github.com/Jerome-openclassroom/Artisan_Spectroscopy_Plasma_Physics)
+- [Related project: Lyra SunTrack](https://github.com/Jerome-openclassroom/Lyra_SunTrack)  
+  *→ Safe solar projection, Stonyhurst grid overlay, sunspot tracking, and physical measurements with ImageJ and Python.*
 
 
