@@ -135,4 +135,11 @@ drawn not from observatories, but from pure curiosity and determination.
 - [Related project: Lyra SunTrack](https://github.com/Jerome-openclassroom/Lyra_SunTrack)  
  
 
+## 📄 License
+
+This project is licensed under the MIT License.  
+You are free to use, modify, and distribute the code and datasets,  
+provided that proper credit is given to the original author.
+
+See the [LICENSE.md](LICENSE.md) file for full terms.
 
